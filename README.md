@@ -1,1 +1,28 @@
-# Implementing-a-Full-CI-CD-Pipeline
+## Overview
+
+This document provides instructions on how to use Git to make changes to code. 
+
+### Connect to Server
+
+To connect to the server via the terminal, type:
+
+```console
+ssh Username@{CentOS Server Public IP}
+```
+
+For example:
+
+```console
+$ cloud_user@3.183.134.98
+```
+
+Then, enter the password when prompted:
+
+```console
+(cloud_user@3.183.134.98) Password: 
+```
+
+The terminal will look like this:
+
+```console
+[cloud_user@ip-10-0-1-202 ~]$
